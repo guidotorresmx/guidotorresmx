@@ -2,16 +2,16 @@
 
 Hi, this is Marco, part-time sleeper, full-time pesimist and casual programmer, experienced full-stack dev with a solid machine learning foundation.
 
-[blog 🖱️💻](https://img.shields.io/badge/-FFF?&logo=mouse) | [twitter 🐤✒️](http://twitter.com/guidotorresmx) | [github 🐈‍⬛🐙](http://github.com/guidotorresmx) | [instagram 🤳](http://www.instagram.com/guidotorresmx) | [linkedin 🕸️🧑‍💻](http://www.linkedin.com/in/guidotorresmx) | [facebook 🙂📕](http://www.facebook.com/guidotorresmx) | [email 📧](marco@guidotorres.mx) | [telegram 📤✈️](http://t.me/guidotorresmx)
+[blog 🖱️💻](https://www.guidotorres.mx/blog) | [twitter 🐤✒️](http://twitter.com/guidotorresmx) | [github 🐈‍⬛🐙](http://github.com/guidotorresmx) | [instagram 🤳](http://www.instagram.com/guidotorresmx) | [linkedin 🕸️🧑‍💻](http://www.linkedin.com/in/guidotorresmx) | [facebook 🙂📕](http://www.facebook.com/guidotorresmx) | [email 📧](marco@guidotorres.mx) | [telegram 📤✈️](http://t.me/guidotorresmx)
 
 ### Languages and extras
-![CSharp][CSharp] ![CSS][CSS] ![JavaScript][JavaScript] ![HTML][HTML] ![Python][Python] ![Matlab][Matlab]
+![CSharp][CSharp] ![JavaScript][JavaScript] ![TypeScript][TypeScript] ![Python][Python] ![Matlab][Matlab]
 
 ### Technologies
-![AWS][AWS] ![Azure][Azure] ![Docker][Docker] ![Kubernetes][Kubernetes] ![Linux][Linux] ![Node.js][Node.js] ![Redis][Redis] ![MongoDB][MongoDB] ![PostgreSQL][PostgreSQL] ![TensorFlow][TensorFlow]
+![AWS][AWS] ![Azure][Azure] ![Docker][Docker] ![Kubernetes][Kubernetes] ![Linux][Linux] ![Node.js][Node.js] ![Redis][Redis] ![MongoDB][MongoDB] ![PostgreSQL][PostgreSQL] ![TensorFlow][TensorFlow] ![Firebase][Firebase]
 
 ### Interests
-Machine Learning, microservice, CI/CD, WebApps.
+Machine Learning, microservices, Cloud Computing.
 
 ### Tools I use
 - atom (hydrogen)
@@ -22,7 +22,7 @@ Machine Learning, microservice, CI/CD, WebApps.
 - multidesktop
 - botframework (emulator, no composer)  
 - ngrok
-- postman
+- insomnia
 
 
 [CSharp]:     https://img.shields.io/badge/-C%23-FFF?&logo=Csharp&logoColor=black "C#"
@@ -46,10 +46,6 @@ Machine Learning, microservice, CI/CD, WebApps.
 
 
 <!--
-**guidotorresmx/guidotorresmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
